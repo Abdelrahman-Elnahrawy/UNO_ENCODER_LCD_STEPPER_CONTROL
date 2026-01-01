@@ -77,7 +77,16 @@ This project is an **Arduino UNO-based stepper motor control system** that allow
 │ └── stepper_encoder_uno_controller/
 │ └─ Consolidated final controller sketch.
 ```
+#🖼 Images
+Proteus Simulation Preview
 
+![System Screenshot](./proteus.JPG)
+*Simulation of Arduino + LCD + Stepper Motor Control in Proteus.*
+
+Real Setup
+
+![System Screenshot](./projectphoto.png)
+*Physical setup showing Arduino UNO, LCD Keypad Shield, Rotary Encoder, Stepper Motor Driver, and Stepper Motor.*
 ## ⚡ Notes
 
 - Designed for **Arduino UNO**.  
